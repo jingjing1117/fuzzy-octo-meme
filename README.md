@@ -1,2 +1,2 @@
 # fuzzy-octo-meme
-fetch方法的封装
+fetch网络请求
